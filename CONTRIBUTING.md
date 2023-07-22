@@ -4,7 +4,7 @@ This repository is entirely open source and welcomes contributions! Please read 
 
 ## Issues
 
-All forms of feedback are welcome through [issues](https://github.com/iamrk04/DataEntryAssistant/issues/new)
+All forms of feedback are welcome through [issues](https://github.com/iamrk04/TaskAutomationKit/issues/new)
 
 ## Repository Structure
 
@@ -19,8 +19,8 @@ Pull requests are welcome! Please follow the guidelines below to ensure that you
 Clone the repository and install the required Python packages for contributing:
 
 ```terminal
-git clone https://github.com/iamrk04/DataEntryAssistant.git
-cd DataEntryAssistant
+git clone https://github.com/iamrk04/TaskAutomationKit.git
+cd TaskAutomationKit
 pip install -r requirements.txt
 ```
 
