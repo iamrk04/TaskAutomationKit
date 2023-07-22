@@ -2,3 +2,4 @@ selenium
 pandas
 ipykernel
 black-nb
+python-dotenv
